@@ -1,5 +1,5 @@
 import React from 'react';
-import FriendsHeader from './FriendHeader';
+import FriendsHeader from './FriendsHeader';
 import SuggestedFriend from './SuggestedFriend';
 
 function FriendBox() {

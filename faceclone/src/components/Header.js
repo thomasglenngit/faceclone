@@ -4,7 +4,7 @@ import SearchBar from './SearchBar';
 
 function Header() {
   return (
-    <div class="header row">
+    <div class="header-row">
       <NavButtons />
       <span class="col-md-4"></span>
       <SearchBar />
