@@ -1,8 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Build a React Application: PLAN
+
+Step 1: Break the UI into a Component Hierarchy. Each component = Parent, Child, Sibling
+
+Step 2: Build a Static Version in REACT.
+
+Step 3: Identify the Minimal (but complete) representation of UI state
+
+Step 4: Identify where your State should live.
+
+Step 5: Add Inverse Data Flow : Let’s think about what we want to happen. We want to make sure that whenever the user changes the form, we update the state to reflect the user input. 
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 

@@ -1,10 +1,13 @@
 import React from 'react';
+import Header from './Header';
+import Body from './Body';
 
 function App() {
   return (
-    <React.Fragment>
-      <p>Hello, World!</p>
-    </React.Fragment>
+    <div class="container">
+      <Header />
+      <Body />
+    </div>
   );
 }
 
