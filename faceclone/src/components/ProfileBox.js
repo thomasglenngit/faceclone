@@ -2,17 +2,15 @@ import React from 'react';
 
 function ProfileBox() {
   return (
-    <div class="profile-box">
-      <ProfileImage /
-  )
+    <React.Fragment>
+      <p>User Name</p>
+      <div class="directions">
+        <button class="btn" type="button">TWEETS</button>
+        <button class="btn" type="button">FOLLOWING</button>
+        <button class="btn" type="button">FOLLOWERS</button>
+      </div>
+    </React.Fragment>
+  );
 }
-div class="profile-box">
 
-<div class="image"></div>
-<div class="user-name"></div>
-  <div class="directions">
-    <button class="btn" type="button">TWEETS</button>
-    <button class="btn" type="button">FOLLOWING</button>
-    <button class="btn" type="button">FOLLOWERS</button>
-  </div>
-</div>
+export default ProfileBox;

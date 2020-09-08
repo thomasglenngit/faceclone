@@ -6,8 +6,7 @@ function RightColumn() {
     <div class="right-column col-md-4">
       <FriendBox />
     </div>
-  )
-
+  );
 }
 
 export default RightColumn;

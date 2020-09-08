@@ -1,11 +1,15 @@
 import React from 'react';
-import FriendHeader from './FriendHeader';
+import FriendsHeader from './FriendHeader';
+import SuggestedFriend from './SuggestedFriend';
 
 function FriendBox() {
   return (
-    <FriendHeader />
-    <div class="friend-box">
-    </div>
+    <React.Fragment>
+      <FriendsHeader />
+      <SuggestedFriend />
+      <SuggestedFriend />
+      <SuggestedFriend />
+    </React.Fragment>
   )
 }
 
