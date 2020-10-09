@@ -1,3 +1,40 @@
+<h1 align='center'><img width='900' height='450' src='https://coding-assets.s3.us-west-2.amazonaws.com/hero_images/vacation-site.jpg'><br>
+
+
+**<h1 align = 'center'>faceclone**
+
+
+*<h2 align ='center'>An application to understand react components*
+
+
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#cloning'> Cloning</a></h3>
+
+
+<h3 align='center'>As an exercise at the Epicodus school, this repository was an afternoon's attempt to construct an application based on the Facebook UI. </h3>
+
+# **REQUIREMENTS**
+
+# **SETUP**
+
+## **CLONING**
+
+* Copy the repo link as shown in the image below
+
+![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone.gif 'How to clone repo')
+
+* Paste the link in the field provided by VsCode as thown in the image below
+
+* You will be prompted to open the directory once you have cloned it. Select 'open'
+
+![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone-github2.gif 'Cloning from Github within VSCode')
+
+<br>
+
+# **TECHNOLOGIES USED**
+
+<br>
+
+# **INSTALL**
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Build a React Application: PLAN
@@ -12,70 +49,33 @@ Step 4: Identify where your State should live.
 
 Step 5: Add Inverse Data Flow : Let’s think about what we want to happen. We want to make sure that whenever the user changes the form, we update the state to reflect the user input. 
 
-## Available Scripts
 
-In the project directory, you can run:
+with the root project folder open in your code editor, execute the following in your terminal:
+
+``cd ProjectName``
+
+``npm install``
+
+``npm start``
+
+<br>
+
+# **❤️Contributors**
+
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/joseph-pearce.jpeg' width='160px;'/><br /><sub><b>Joseph Pearce</b></sub>](https://www.linkedin.com/in/pjosephpearce/)<br />
+
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/micheal-hansen.jpeg' width='160px;'/><br /><sub><b>Micheal Hansen</b></sub>](https://www.linkedin.com/in/michealhansen/)<br />
+
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/taylor-phillips.jpeg' width='160px;'/><br /><sub><b>Taylor Phillips</b></sub>](https://www.linkedin.com/in/taylorphillipsportland/)<br />
+
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/thomas-glenn.jpeg' width='160px;'/><br /><sub><b>Thomas Glenn</b></sub>](https://www.linkedin.com/in/glennergy/)<br />
+
+<br>
+
+<br>
+
+![alt text][logo]
+
+[logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
 
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
