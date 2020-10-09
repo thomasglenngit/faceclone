@@ -1,4 +1,4 @@
-<h1 align='center'><img width='900' height='450' src='https://coding-assets.s3.us-west-2.amazonaws.com/hero_images/vacation-site.jpg'><br>
+<h1 align='center'><img width='900' height='450' src='https://gazettereview.com/wp-content/uploads/2016/03/facebook-avatar.jpg'><br>
 
 
 **<h1 align = 'center'>faceclone**
